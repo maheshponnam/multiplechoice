@@ -1,0 +1,20 @@
+body{
+	background-color: dodgerblue;
+	color: #fff;
+	font-size: 20px;
+	font-weight: bolder;
+	margin-left: 2rem;
+}
+#button{
+	background-color: black;
+	color: #fff;
+	font-size: 18px;
+	padding: 5px;
+	cursor: pointer;
+	border-radius: 7px;
+}
+#button:hover{
+	background: pink;
+	transition: all 0.5s ease;
+	color: #000;
+}
